@@ -1,0 +1,11 @@
+{
+  "name": "meeting-timekeeper",
+  "version": "1.0.0",
+  "description": "respect: http://maruta.github.io/timekeeper/",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "private": true
+}
