@@ -10,5 +10,6 @@ respect: http://maruta.github.io/timekeeper/
    * Start
    * Pause
    * Extension Schedule
+* Display Current Time
 * Resister events. (name, time)
 * Save event as uri paramater
